@@ -657,7 +657,7 @@ int getSKP(){
             
     }else{
 */
-	sprintf(SKPip,"127.0.0.1");
+	sprintf(SKPip,"54.37.137.197");
 //    }
 
     if ((sockfd = socket(AF_INET, SOCK_DGRAM, IPPROTO_UDP))==-1)
